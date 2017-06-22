@@ -28,7 +28,7 @@ body {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 100%;
     width: 100%;
- 	max-width: 960px;	/*width on desktop */
+ 	max-width: 1030px;	/*width on desktop */
 	margin: 0 auto; /* margin top and bottom 0, and automatic on side, 30px make it centerd*/
 	background-color: #dce2ea;  /*all body light blue*/
 	}
